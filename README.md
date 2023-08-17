@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Frameworks<br>🎲 Fun fact: I always have an appetite for Philosophy</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Frameworks<br>🎲 Three P's of my Life: Physics,Philosophy and Programming
 
 ###
 
