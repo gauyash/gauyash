@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Yash Gautam and I'm a wanna be Frontend Developer from India</p>
+<p align="left">My name is Yash Gautam</p>
 
 ###
 
